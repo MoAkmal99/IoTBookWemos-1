@@ -1,4 +1,6 @@
-
+#define BLYNK_TEMPLATE_ID           "Template ID"
+#define BLYNK_TEMPLATE_NAME         "Template Name"
+#define BLYNK_AUTH_TOKEN            "AUTH TOKEN"
 #define BLYNK_PRINT Serial
 #include <ESP8266WiFi.h>
 
